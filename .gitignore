@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 임시 파일
+~$*.xlsx
+*.tmp
+*.log
+
+# Gradio 버전 (불필요)
+chatbot.py
+wheelchair_chatbot.py
+
+# 테스트 파일
+parser_test.py
